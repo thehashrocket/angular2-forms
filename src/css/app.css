@@ -1,0 +1,1 @@
+body{padding:32px;margin:32px;font-family:Roboto,Arial,sans-serif;font-size:16px}button,input{font-size:inherit}label{display:block}input{width:200px}button{margin:10px 0;border:1px solid #ccc;border-radius:3px;background-color:#eee;cursor:pointer}button:not([disabled]):hover{background-color:#bbb}.validation-error{color:red}
