@@ -24,43 +24,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template-driven-form.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/template-driven-form.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-              <folding>
-                <marker date="1466110062000" expanded="true" signature="187:1185" ph="..." />
-                <marker date="1466110062000" expanded="true" signature="205:445" ph="..." />
-                <marker date="1466110062000" expanded="true" signature="463:724" ph="..." />
-                <marker date="1466110062000" expanded="true" signature="742:1049" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data-driven-form.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data-driven-form.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dev/data-driven-form.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="90">
+              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
-                <marker date="1466432197000" expanded="true" signature="272:1147" ph="..." />
-                <marker date="1466432197000" expanded="true" signature="290:519" ph="..." />
-                <marker date="1466432197000" expanded="true" signature="537:782" ph="..." />
-                <marker date="1466432197000" expanded="true" signature="800:1076" ph="..." />
+                <marker date="1466432709000" expanded="true" signature="272:1256" ph="..." />
+                <marker date="1466432709000" expanded="true" signature="290:544" ph="..." />
+                <marker date="1466432709000" expanded="true" signature="562:842" ph="..." />
+                <marker date="1466432709000" expanded="true" signature="860:1185" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -251,12 +226,12 @@
       <workItem from="1466097867094" duration="17000" />
       <workItem from="1466108926747" duration="1081000" />
       <workItem from="1466172816277" duration="181000" />
-      <workItem from="1466431023473" duration="1215000" />
+      <workItem from="1466431023473" duration="1631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4398000" />
+    <option name="totallyTimeSpent" value="4814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1406" height="797" extended-state="0" />
@@ -400,14 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -418,29 +385,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/data-driven-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <marker date="1466432197000" expanded="true" signature="272:1147" ph="..." />
-            <marker date="1466432197000" expanded="true" signature="290:519" ph="..." />
-            <marker date="1466432197000" expanded="true" signature="537:782" ph="..." />
-            <marker date="1466432197000" expanded="true" signature="800:1076" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/template-driven-form.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="195">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
           <folding>
             <marker date="1466110062000" expanded="true" signature="187:1185" ph="..." />
             <marker date="1466110062000" expanded="true" signature="205:445" ph="..." />
             <marker date="1466110062000" expanded="true" signature="463:724" ph="..." />
             <marker date="1466110062000" expanded="true" signature="742:1049" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/data-driven-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1466432709000" expanded="true" signature="272:1256" ph="..." />
+            <marker date="1466432709000" expanded="true" signature="290:544" ph="..." />
+            <marker date="1466432709000" expanded="true" signature="562:842" ph="..." />
+            <marker date="1466432709000" expanded="true" signature="860:1185" ph="..." />
           </folding>
         </state>
       </provider>
